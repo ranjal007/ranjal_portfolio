@@ -10,13 +10,20 @@ window.addEventListener("load",function(){
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBwajr9IL63JWo2tZ4THp1eMdFLlM8DlbU",
-    authDomain: "portfolio-db81d.firebaseapp.com",
-    databaseURL: "https://portfolio-db81d.firebaseio.com",
-    projectId: "portfolio-db81d",
-    storageBucket: "portfolio-db81d.appspot.com",
-    messagingSenderId: "367305720933",
-    appId: "1:367305720933:web:6d22a437dfeb3bf9bb328c"
+    // apiKey: "AIzaSyBwajr9IL63JWo2tZ4THp1eMdFLlM8DlbU",
+    // authDomain: "portfolio-db81d.firebaseapp.com",
+    // databaseURL: "https://portfolio-db81d.firebaseio.com",
+    // projectId: "portfolio-db81d",
+    // storageBucket: "portfolio-db81d.appspot.com",
+    // messagingSenderId: "367305720933",
+    // appId: "1:367305720933:web:6d22a437dfeb3bf9bb328c"
+    apiKey: "AIzaSyAGYGHq7zoz4IeFMknS5uhN3lgMSDpsG1o",
+    authDomain: "ranjal-portfolio.firebaseapp.com",
+    databaseURL: "https://ranjal-portfolio.firebaseio.com",
+    projectId: "ranjal-portfolio",
+    storageBucket: "ranjal-portfolio.appspot.com",
+    messagingSenderId: "781269750913",
+    appId: "1:781269750913:web:aa018cc0ac2a713e626980"
   };
   firebase.initializeApp(firebaseConfig);
 
